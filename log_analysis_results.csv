@@ -1,0 +1,19 @@
+IP Address,Request Count
+203.0.113.5,8
+198.51.100.23,8
+192.168.1.1,7
+10.0.0.2,6
+192.168.1.100,5
+
+Endpoint,Access Count
+/login,13
+/home,5
+/about,5
+/dashboard,3
+/contact,2
+/register,2
+/profile,2
+/feedback,2
+
+Suspicious IP,Failed Login Count
+203.0.113.5,8
